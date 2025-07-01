@@ -1,4 +1,4 @@
-Student Progression Outcome System 
+## Student Progression Outcome System 
 
 This Python program predicts student progression outcomes at the end of each academic year based on University credit regulations. 
 
