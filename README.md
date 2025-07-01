@@ -15,6 +15,20 @@ It then determines the outcome:
 
 The outcomes are displayed and summarised in both horizontal and vertical histograms.
 
+
+## Features
+
+- **Input validation**:
+  - Ensures only integers are entered.
+  - Accepts only values in `{0, 20, 40, 60, 80, 100, 120}`.
+  - Ensures total credits entered equal 120.
+
+- **Progression logic**:
+  - Based on official university progression rules (see table from coursework spec).
+  
+- **Histograms**:
+  - Shows the distribution of outcomes across all entered students.
+
 ## How to Run
 1. Open a terminal and navigate to the project directory.
 2. Run the script using:
